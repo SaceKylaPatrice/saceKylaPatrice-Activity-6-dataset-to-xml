@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE Constituent-Satisfaction-Survey-Results-2015 [
+<!ELEMENT Constituent-Satisfaction-Survey-Results-2015 (survey)>
+
+<!ELEMENT survey (id, q1a_quality_of_police_services, q1b_fire_emergency_medical_and_ambulance, q1c_county_emergency_preparedness, q1d_county_parks_recreation_sports_programs, q1e_county_arts_cultural_programs, q1f_maintenance_of_county_streets, q1g_traffic_flow_on_streets, q1h_county_water_and_wastewater_services, q1i_countys_stormwater_runoff_system)>
+
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT q1a_quality_of_police_services (#PCDATA)>
+<!ELEMENT q1b_fire_emergency_medical_and_ambulance (#PCDATA)>
+<!ELEMENT q1c_county_emergency_preparedness (#PCDATA)>
+<!ELEMENT q1d_county_parks_recreation_sports_programs (#PCDATA)>
+<!ELEMENT q1e_county_arts_cultural_programs (#PCDATA)>
+<!ELEMENT q1f_maintenance_of_county_streets (#PCDATA)>
+<!ELEMENT q1g_traffic_flow_on_streets (#PCDATA)>
+<!ELEMENT q1h_county_water_and_wastewater_services (#PCDATA)>
+<!ELEMENT q1i_countys_stormwater_runoff_system (#PCDATA)>
+
+<!ATTLIST survey row CDATA #REQUIRED>
+
+
+]>
+
+<Constituent-Satisfaction-Survey-Results-2015>
+
+
+	<survey id = "row 1">
+
+		<id>1</id>
+		<q1a_quality_of_police_services>4 - Satisfied</q1a_quality_of_police_services>
+		<q1b_fire_emergency_medical_and_ambulance>4 - Satisfied</q1b_fire_emergency_medical_and_ambulance>
+		<q1c_county_emergency_preparedness>4 - Satisfied</q1c_county_emergency_preparedness>
+		<q1d_county_parks_recreation_sports_programs>4 - Satisfied</q1d_county_parks_recreation_sports_programs>
+		<q1e_county_arts_cultural_programs>4 - Satisfied</q1e_county_arts_cultural_programs>
+		<q1f_maintenance_of_county_streets>2 - Disatisfied</q1f_maintenance_of_county_streets>
+		<q1g_traffic_flow_on_streets>4 - Satisfied</q1g_traffic_flow_on_streets>
+		<q1h_county_water_and_wastewater_services>4 - Satisfied</q1h_county_water_and_wastewater_services>
+		<q1i_countys_stormwater_runoff_system>4 - Satisfied</q1i_countys_stormwater_runoff_system>
+
+	</survey>
+
+	<survey id = "row 2">
+
+		<id>2</id>
+		<q1a_quality_of_police_services>5 - Very Satisfied</q1a_quality_of_police_services>
+		<q1b_fire_emergency_medical_and_ambulance>4 - Satisfied</q1b_fire_emergency_medical_and_ambulance>
+		<q1c_county_emergency_preparedness>5 - Very Satisfied</q1c_county_emergency_preparedness>
+		<q1d_county_parks_recreation_sports_programs>4 - Satisfied</q1d_county_parks_recreation_sports_programs>
+		<q1e_county_arts_cultural_programs>3 - Neutral</q1e_county_arts_cultural_programs>
+		<q1f_maintenance_of_county_streets>4 - Satisfied</q1f_maintenance_of_county_streets>
+		<q1g_traffic_flow_on_streets>4 - Satisfied</q1g_traffic_flow_on_streets>
+		<q1h_county_water_and_wastewater_services>4 - Satisfied</q1h_county_water_and_wastewater_services>
+		<q1i_countys_stormwater_runoff_system>4 - Satisfied</q1i_countys_stormwater_runoff_system>
+
+	</survey>
+
+	<survey id = "row 3">
+
+		<id>6</id>
+		<q1a_quality_of_police_services>5 - Very Satisfied</q1a_quality_of_police_services>
+		<q1b_fire_emergency_medical_and_ambulance>5 - Very Satisfied</q1b_fire_emergency_medical_and_ambulance>
+		<q1c_county_emergency_preparedness>5 - Very Satisfied</q1c_county_emergency_preparedness>
+		<q1d_county_parks_recreation_sports_programs>5 - Very Satisfied</q1d_county_parks_recreation_sports_programs>
+		<q1e_county_arts_cultural_programs>4 - Satisfied</q1e_county_arts_cultural_programs>
+		<q1f_maintenance_of_county_streets>3 -Neutral</q1f_maintenance_of_county_streets>
+		<q1g_traffic_flow_on_streets>4 - Satisfied</q1g_traffic_flow_on_streets>
+		<q1h_county_water_and_wastewater_services>5 - Very Satisfied</q1h_county_water_and_wastewater_services>
+		<q1i_countys_stormwater_runoff_system>5 - Very Satisfied</q1i_countys_stormwater_runoff_system>
+
+	</survey>
+
+	<survey id = "row 4">
+
+		<id>7</id>
+		<q1a_quality_of_police_services>9 - I Don't Know</q1a_quality_of_police_services>
+		<q1b_fire_emergency_medical_and_ambulance>9 - I Don't Know</q1b_fire_emergency_medical_and_ambulance>
+		<q1c_county_emergency_preparedness>9 - I Don't Know</q1c_county_emergency_preparedness>
+		<q1d_county_parks_recreation_sports_programs>4 - Satisfied</q1d_county_parks_recreation_sports_programs>
+		<q1e_county_arts_cultural_programs>4 - Satisfied</q1e_county_arts_cultural_programs>
+		<q1f_maintenance_of_county_streets>4 - Satisfied</q1f_maintenance_of_county_streets>
+		<q1g_traffic_flow_on_streets>3 -Neutral</q1g_traffic_flow_on_streets>
+		<q1h_county_water_and_wastewater_services>4 - Satisfied</q1h_county_water_and_wastewater_services>
+		<q1i_countys_stormwater_runoff_system>9 - I Don't Know</q1i_countys_stormwater_runoff_system>
+
+	</survey>
+
+	<survey id = "row 5">
+
+		<id>8</id>
+		<q1a_quality_of_police_services>5 - Very Satisfied</q1a_quality_of_police_services>
+		<q1b_fire_emergency_medical_and_ambulance>5 - Very Satisfied</q1b_fire_emergency_medical_and_ambulance>
+		<q1c_county_emergency_preparedness>5 - Very Satisfied</q1c_county_emergency_preparedness>
+		<q1d_county_parks_recreation_sports_programs>5 - Very Satisfied</q1d_county_parks_recreation_sports_programs>
+		<q1e_county_arts_cultural_programs>5 - Very Satisfied</q1e_county_arts_cultural_programs>
+		<q1f_maintenance_of_county_streets>5 - Very Satisfied</q1f_maintenance_of_county_streets>
+		<q1g_traffic_flow_on_streets>5 - Very Satisfied</q1g_traffic_flow_on_streets>
+		<q1h_county_water_and_wastewater_services>5 - Very Satisfied</q1h_county_water_and_wastewater_services>
+		<q1i_countys_stormwater_runoff_system>5 - Very Satisfied</q1i_countys_stormwater_runoff_system>
+
+	</survey>
+
+	<survey id = "row 6">
+
+		<id>10</id>
+		<q1a_quality_of_police_services>5 - Very Satisfied</q1a_quality_of_police_services>
+		<q1b_fire_emergency_medical_and_ambulance>5 - Very Satisfied</q1b_fire_emergency_medical_and_ambulance>
+		<q1c_county_emergency_preparedness>9 - I Don't Know</q1c_county_emergency_preparedness>
+		<q1d_county_parks_recreation_sports_programs>5 - Very Satisfied</q1d_county_parks_recreation_sports_programs>
+		<q1e_county_arts_cultural_programs>2 - Disatisfied</q1e_county_arts_cultural_programs>
+		<q1f_maintenance_of_county_streets>2 - Disatisfied</q1f_maintenance_of_county_streets>
+		<q1g_traffic_flow_on_streets>4 - Satisfied</q1g_traffic_flow_on_streets>
+		<q1h_county_water_and_wastewater_services>5 - Very Satisfied</q1h_county_water_and_wastewater_services>
+		<q1i_countys_stormwater_runoff_system>9 - I Don't Know</q1i_countys_stormwater_runoff_system>
+
+	</survey>
+
+	<survey id = "row 7">
+
+		<id>11</id>
+		<q1a_quality_of_police_services>5 - Very Satisfied</q1a_quality_of_police_services>
+		<q1b_fire_emergency_medical_and_ambulance>5 - Very Satisfied</q1b_fire_emergency_medical_and_ambulance>
+		<q1c_county_emergency_preparedness>5 - Very Satisfied</q1c_county_emergency_preparedness>
+		<q1d_county_parks_recreation_sports_programs>5 - Very Satisfied</q1d_county_parks_recreation_sports_programs>
+		<q1e_county_arts_cultural_programs>9 - I Don't Know</q1e_county_arts_cultural_programs>
+		<q1f_maintenance_of_county_streets>4 - Satisfied</q1f_maintenance_of_county_streets>
+		<q1g_traffic_flow_on_streets>9 - I Don't Know</q1g_traffic_flow_on_streets>
+		<q1h_county_water_and_wastewater_services>4 - Satisfied</q1h_county_water_and_wastewater_services>
+		<q1i_countys_stormwater_runoff_system>3 -Neutral</q1i_countys_stormwater_runoff_system>
+
+	</survey>
+
+	<survey id = "row 8">
+
+		<id>12</id>
+		<q1a_quality_of_police_services>4 - Satisfied</q1a_quality_of_police_services>
+		<q1b_fire_emergency_medical_and_ambulance>4 - Satisfied</q1b_fire_emergency_medical_and_ambulance>
+		<q1c_county_emergency_preparedness>4 - Satisfied</q1c_county_emergency_preparedness>
+		<q1d_county_parks_recreation_sports_programs>4 - Satisfied</q1d_county_parks_recreation_sports_programs>
+		<q1e_county_arts_cultural_programs>4 - Satisfied</q1e_county_arts_cultural_programs>
+		<q1f_maintenance_of_county_streets>4 - Satisfied</q1f_maintenance_of_county_streets>
+		<q1g_traffic_flow_on_streets>3 - Neutral</q1g_traffic_flow_on_streets>
+		<q1h_county_water_and_wastewater_services>4 - Satisfied</q1h_county_water_and_wastewater_services>
+		<q1i_countys_stormwater_runoff_system>4 - Satisfied</q1i_countys_stormwater_runoff_system>
+
+	</survey>
+
+	<survey id = "row 9">
+
+		<id>13</id>
+		<q1a_quality_of_police_services>5 - Very Satisfied</q1a_quality_of_police_services>
+		<q1b_fire_emergency_medical_and_ambulance>5 - Very Satisfied</q1b_fire_emergency_medical_and_ambulance>
+		<q1c_county_emergency_preparedness>5 - Very Satisfied</q1c_county_emergency_preparedness>
+		<q1d_county_parks_recreation_sports_programs>4 - Satisfied</q1d_county_parks_recreation_sports_programs>
+		<q1e_county_arts_cultural_programs>5 - Very Satisfied</q1e_county_arts_cultural_programs>
+		<q1f_maintenance_of_county_streets>4 - Satisfied</q1f_maintenance_of_county_streets>
+		<q1g_traffic_flow_on_streets>5 - Very Satisfied</q1g_traffic_flow_on_streets>
+		<q1h_county_water_and_wastewater_services>5 - Very Satisfied</q1h_county_water_and_wastewater_services>
+		<q1i_countys_stormwater_runoff_system>5 - Very Satisfied</q1i_countys_stormwater_runoff_system>
+
+	</survey>
+
+	<survey id = "row 10">
+
+		<id>16</id>
+		<q1a_quality_of_police_services>9 - I Don't Know</q1a_quality_of_police_services>
+		<q1b_fire_emergency_medical_and_ambulance>9 - I Don't Know</q1b_fire_emergency_medical_and_ambulance>
+		<q1c_county_emergency_preparedness>9 - I Don't Know</q1c_county_emergency_preparedness>
+		<q1d_county_parks_recreation_sports_programs>4 - Satisfied</q1d_county_parks_recreation_sports_programs>
+		<q1e_county_arts_cultural_programs>4 - Satisfied</q1e_county_arts_cultural_programs>
+		<q1f_maintenance_of_county_streets>3 - Neutral</q1f_maintenance_of_county_streets>
+		<q1g_traffic_flow_on_streets>4 - Satisfied</q1g_traffic_flow_on_streets>
+		<q1h_county_water_and_wastewater_services>4 - Satisfied</q1h_county_water_and_wastewater_services>
+		<q1i_countys_stormwater_runoff_system>4 - Satisfied</q1i_countys_stormwater_runoff_system>
+
+	</survey>
+
+</Constituent-Satisfaction-Survey-Results-2015>
